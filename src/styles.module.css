@@ -1,0 +1,14 @@
+.mainWraper {
+    padding: 50px;
+}
+
+.headerTitle {
+    font-size: 25px
+}
+
+.todoListWraper {
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(4, 1fr);
+
+}
